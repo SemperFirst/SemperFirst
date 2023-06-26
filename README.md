@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+SemperFirst （永远第一 虽然我也不晓得语法拼接的对不对）
+渗透测试
+安全策略研发
+小白介绍
+挖过几个学校和政府的高中危漏洞
+cisp-pte渗透菜鸡
+护网蓝中
+主流安全厂商工作中
 <!--
 **SemperFirst/SemperFirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
