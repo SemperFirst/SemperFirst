@@ -1,7 +1,7 @@
 ### Hi there 👋
 SemperFirst
 渗透测试
-漏洞扫描引擎策略开发
+漏洞扫描引擎策略研发
 主流安全厂商工作中
 <!--
 **SemperFirst/SemperFirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
