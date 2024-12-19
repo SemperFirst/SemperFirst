@@ -2,8 +2,7 @@
 - 🔭 正在研究：安全开发 | 渗透测试
 - 🌱 持续学习：Go && Python && JavaScript
 - 💬 欢迎交流：安全、技术、开源项目
-![Profile Views](https://komarev.com/ghpvc/?username=SemperFirst&color=blue)
-🌟使用语言和仓库统计信息：
+- 🌟使用语言和仓库统计信息：
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SemperFirst&layout=compact&theme=radical)
 
 
