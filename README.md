@@ -1,8 +1,12 @@
-### Hi there 👋
-SemperFirst
-渗透测试
-漏洞扫描引擎策略研发
-主流安全厂商工作中
+### 👋 你好，我是 [SemperFirst]  
+- 🔭 正在研究：安全开发 | 渗透测试
+- 🌱 持续学习：Go && Python && JavaScript
+- 💬 欢迎交流：安全、技术、开源项目
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SemperFirst&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SemperFirst&layout=compact&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SemperFirst&theme=react-dark)
+![Profile Views](https://komarev.com/ghpvc/?username=SemperFirst&color=blue)
+
 <!--
 **SemperFirst/SemperFirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
